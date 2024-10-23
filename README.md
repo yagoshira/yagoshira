@@ -13,7 +13,7 @@ I'm a student of Systems Analysis and Development at UNINTER, currently based in
 - 🖥️ **Technologies**: I work with HTML, CSS, JavaScript, PHP, Python, and SQL to build efficient and scalable applications  
 - 💡 **Experience**: I have hands-on experience in developing applications, creating dashboards, and managing data using tools such as SQL, Metabase, and Power BI  
 - 🛠️ **Project Management**: Skilled in task management and automation with ClickUP and methodologies like Kanban  
-- 🎵 **Personal interests**: Outside of technology, I am passionate about electronic music and a bodybuilding enthusiast.  
+- 🎵 **Personal interests**: Outside of technology, I am passionate about electronic music, a casual gameplayer and a bodybuilding enthusiast.  
 
 <a href="https://github.com/YagoShira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/YagoShira?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
