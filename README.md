@@ -39,7 +39,7 @@ I'm a student of Systems Analysis and Development at UNINTER, currently based in
 
 <p align="left"> 
   <a href="https://github.com/YagoShira" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/yago-shirabayashi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/yago-shirabayashi-324aaa2b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
 
 ---
